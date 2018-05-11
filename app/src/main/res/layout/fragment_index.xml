@@ -7,6 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
+        android:textColor="#F4A409"
         android:text="主页"
         android:textSize="30sp" />
 </LinearLayout>
